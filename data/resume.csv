@@ -1,0 +1,56 @@
+general,,
+,name,Jesse Jordan
+,address,"187 Stanhope St,  Apt 1"
+,,"Brooklyn, NY 11237"
+,email,jessej@chewplastic.com
+,phone,(212) 918-1878 x2
+objective,,
+,main,"Employment at an awesome company where I can make an impact with my web development skills and experience.  With super-ninja powers,  almost a decade of experience,  a positive attitude and unrivaled patience and perseverance, there is no problem that would stop me in my tracks."
+technology,,
+,languages,PHP5
+,,C/C++
+,,Perl
+,,MySQL
+,,Memcached
+,,HTML
+,,CSS
+,sys_admin,Linux/UNIX
+,,Shell scripting
+,,SVN
+,,Apache
+,,Asterisk PBX
+,,Cisco
+,,RHEL
+,,Amazon AWS
+,misc,Xdebug
+,,Kcachegrind
+,,Eclipse
+,,Netbeans
+experience,,
+,delivery.com,Director of Technology / Lead Developer (2009 – Current)
+,,"Reporting to CEO, responsible for all development of the Delivery.com platform, a custom PHP codebase with over 250K unique monthly visits and over $40MM in yearly sales."
+,,Built and supervised a team of 7 junior web developers.
+,,Managed 2 senior developers and implemented a process for code review and training of junior team members.
+,,Hired and managed a Systems Administrator for infrastructure support and expansion.
+,,"Improved deployment processes and implemented a QA process, assisted in recruitment and training of QA staff."
+,,"Worked with product, marketing, sales and customer service departments to drive growth of the business through continued innovation, new products and bug fixes."
+,,Designed a development test to evaluate potential new hires and conducted many interviews.
+,,Web Developer (2007 – 2009)
+,,Designed and developed an object oriented framework to replace an old procedural frontend and integrate with existing backend functionality.
+,,Developed APIs for all site functionality for use with mobile applications and third parties.
+,,Developed a unique method for caching and managing merchant hours data for high performance searching and sorting of data.
+,,Instituted and maintained Bugzilla for internal issue and bug tracking.
+,,"Designed and developed a new billing and accounting system to reduce costs, increase flexibility of contract terms and simplify AR and AP processes."
+,,Provided off-hours/on-call systems and application support.
+,,Worked on various projects integrating Facebook and other third party services.
+,scannerworld,Webmaster/Developer (2006 – 2007)
+,,Developed and maintained a number of e-commerce websites in a LAMP environment for a small company.
+,akwire.net,Personal Project (now defunct)
+,,"Attained world fame for being the first individual sued by the RIAA for running a campus search engine.  I was interviewed on most major news networks, appeared as a TechTV panelist, and was the only defendant to speak out and successfully recover all expenses through donations. (see http://www.authorama.com/free-culture-6.html or google “Jesse Jordan RIAA”)"
+,,"Designed and developed Akwire.net, a new local network SMB file search engine based on Samba, PHP, Perl and MySQL for searching public shared files on the campus network."
+,,"Modified Phynd, an existing PHP search engine to improve usability."
+,,Optimized code for high traffic operation on low-budget hardware.
+education,,
+,rpi,Information Technology major (3 years) with Management concentration; on hiatus
+references,,
+,available,Upon Request

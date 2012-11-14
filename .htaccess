@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^(.*[^.php])$ /seomozume/api.php?url=$1        [L]
