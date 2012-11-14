@@ -1,4 +1,5 @@
 SEOmozume
 =========
 
-Resume API in JSON and XML
+See README.pdf for more information
+
